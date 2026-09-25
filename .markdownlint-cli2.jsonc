@@ -1,0 +1,9 @@
+{
+  "config": {
+    "default": true,
+    // 日本語の文章は1行が長くなるため無効
+    "MD013": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**"]
+}
